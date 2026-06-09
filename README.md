@@ -1,6 +1,6 @@
 # redise-o
 ## Descripción
-Proyecto desarrollado para la materia de Rediseño de Aplicaciones.
+Proyecto desarrollado para la creacion de un rediseño de una pagina web ya estructurada, para una mejor adaptabilidad visual 
 
 ## Integrantes
 - Sofía Suárez
